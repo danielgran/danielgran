@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @danielgran
 - 👀 I’m fluent in C(++), C#, Java, Python and TS
-- 📚 I’m a Software Engineer and studying Electrical Engineering
-- 📫 You can reach me via via website (grandaniel.com), at my business phone number (+49 15792399937) or at my linkedin (https://www.linkedin.com/in/grandaniel/)
+- 📚 I’m a Computer Science Expert and studying Electrical Engineering
+- 📫 You can reach me via via (website)[https://www.grandaniel.com/?ref=g%20h], at my business phone number (+49 1579 2399937) or at my LinkedIn (https://www.linkedin.com/in/grandaniel/)
