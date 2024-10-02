@@ -5,7 +5,7 @@ Welcome to my GitHub corner. Here's a bit about me:
 ---
 
 ### 🧠 **Who Am I?**
-I'm a passionate **Computer Science Expert** and **Electrical Engineer** with a knack for blending software and hardware into innovative solutions. My technical fluency includes:
+I'm a passionate **Computer Science Expert (IHK)** and **Electrical Engineer** with a knack for blending software and hardware into innovative solutions. My technical fluency includes:
 
 - **Languages:** C(++), C#, Java, Python, and TypeScript
 - **Expertise:** Building scalable software, low-level system programming, and optimizing electrical systems.
@@ -25,6 +25,7 @@ When I'm not tinkering with circuits or optimizing code, I’m exploring:
 - 🌍 **Website:** [grandaniel.com](https://www.grandaniel.com/?ref=g%20h)
 - 💼 **LinkedIn:** [linkedin.com/in/grandaniel](https://www.linkedin.com/in/grandaniel/)
 - 📞 **Business Phone:** +49 1579 2399937
+- 📂 **Code Snippets & Gists:** [Gists by Daniel Gran](https://gist.github.com/danielgran)
 
 Feel free to reach out if you're interested in collaborating or just chatting about the latest in tech!
 
