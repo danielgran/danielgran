@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Daniel Gran!
+# 👋 Hello, i am Dani! :)
 
-Welcome to my GitHub corner, where code meets creativity and engineering drives innovation. Here's a bit about me:
+Welcome to my GitHub corner. Here's a bit about me:
 
 ---
 
