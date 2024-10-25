@@ -1,5 +1,3 @@
-Here’s an updated profile that adds a top section with icons representing your primary programming languages:
-
 ---
 
 # 👋 Hello, I am Dani! 😊
