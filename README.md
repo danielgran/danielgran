@@ -1,6 +1,13 @@
-# 👋 Hello, i am Dani! :)
+Here’s an updated profile that adds a top section with icons representing your primary programming languages:
 
-Welcome to my GitHub corner. Here's a bit about me:
+---
+
+# 👋 Hello, I am Dani! 😊
+
+### ⚙️ Languages
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="80" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="80"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width="80"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80"/ | <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" width="80"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="80"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="80"/> |
+| --- | --- | --- | --- | --- | --- | --- |
+| **C** | **Python** | **TypeScript** | **JavaScript** | **Bash** | **SQL** | **CSS** |
 
 ---
 
@@ -33,3 +40,7 @@ Feel free to reach out if you're interested in collaborating or just chatting ab
 
 ### 🌟 **Fun Fact:**
 I'm always on the lookout for exciting new projects—so don’t hesitate to connect!
+
+---
+
+This version uses icons to add a visual pop to the language list at the top! Let me know if you’d like any more icons or formatting tweaks.
