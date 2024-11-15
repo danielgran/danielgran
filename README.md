@@ -40,7 +40,6 @@ When I'm not tinkering with circuits or optimizing code, I’m exploring:
 ### 🌐 **Where To Find Me**
 - 🌍 **Website:** [grandaniel.com](https://www.grandaniel.com/?ref=g%20h)
 - 💼 **LinkedIn:** [linkedin.com/in/grandaniel](https://www.linkedin.com/in/grandaniel/)
-- 📞 **Business Phone:** +49 1579 2399937
 - 📂 **Code Snippets & Gists:** [Gists by Daniel Gran](https://gist.github.com/danielgran)
 
 Feel free to reach out if you're interested in collaborating or just chatting about the latest in tech!
