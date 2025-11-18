@@ -1,55 +1,59 @@
-# Hey there, I’m Dani!
+<div align="center">
 
-I’m a **Computer Science Expert (IHK)** and **Electrical Engineer** who loves working at the crossroads where software meets hardware. Whether I’m writing efficient code, designing circuits, or integrating new technologies, I’m driven by the thrill of making things run smoothly—both on-screen and under the hood.
+# 👋 Hey, I'm Dani!
 
----
+**Computer Science Expert (IHK) • Electrical Engineer**
 
-## A Little About Me
+*Building elegant solutions where software meets hardware*
 
-I’ve always been fascinated by how ideas become reality through engineering. Growing up, I was the kid taking apart old radios, tinkering with microcontrollers, and eventually teaching myself programming. That curiosity led me through formal training in computer science and electrical engineering, and it still guides me today as I dive into new coding languages, frameworks, and embedded systems.
+[![Website](https://img.shields.io/badge/Website-grandaniel.com-blue?style=for-the-badge)](https://www.grandaniel.com/?ref=g%20h)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/grandaniel/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://gist.github.com/danielgran)
 
----
-
-## What I’m Working On
-
-- **IoT and Embedded Systems:** Linking real-world hardware with elegant software solutions.
-- **Application Development:** Building robust, scalable tools for desktop, mobile, and the web.
+</div>
 
 ---
 
-## Languages & Tools I Use
+## 🚀 What I Do
 
-I’ve picked up quite a few skills over the years. Here are some of the languages, frameworks, and tools I frequently reach for:
-
-| Language/Tool     | Icon                                                                                           |
-|-------------------|------------------------------------------------------------------------------------------------|
-| C/C++             | <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="60" /> |
-| C#                | *(C# logo—just picture a neat “C#” badge)*                                                     |
-| Python            | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60"/> |
-| Java              | *(Java coffee cup—imagine a warm mug)*                                                          |
-| TypeScript/JS     | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width="60" /> + <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60"/> |
-| SQL               | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60"/> |
-| Bash/Shell        | <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" width="60"/>   |
-| HTML/CSS          | *(Picture the HTML5 shield and CSS3 logo)*                                                     |
-| Vue, React        | <img src="https://vuejs.org/images/logo.png" width="60" /> + <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="60"/> |
-| Docker            | <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="60"/>         |
-
-*(If you can’t see the icons, just imagine your favorite representations of each technology!)*
+💡 **IoT & Embedded Systems** • Building hardware-software integrations  
+🛠️ **Full-Stack Development** • Creating scalable applications across platforms
 
 ---
 
-## Where to Find Me
+## 🛠️ Tech Stack
 
-- **Website:** [grandaniel.com](https://www.grandaniel.com/?ref=g%20h)  
-- **LinkedIn:** [linkedin.com/in/grandaniel](https://www.linkedin.com/in/grandaniel/)  
-- **Gists & Snippets:** [Gists by Daniel Gran](https://gist.github.com/danielgran)
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-I’m always open to connecting with new people—whether that’s to collaborate on a project, talk shop about the latest tech trends, or just share ideas.
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Databases & Tools
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
-## Fun Fact
+<div align="center">
 
-On weekends, I might be knee-deep in code, but I’m just as likely to be testing out a new soldering iron or learning a new programming language. There’s always something new to discover, and I wouldn’t have it any other way.
+### 💬 Let's Connect!
 
-Feel free to drop me a line! It’s always great meeting others who share a passion for making things that matter.
+*Always open to collaboration and new ideas*
+
+</div>
